@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RobertW852
 - 👀 I’m interested in software development, sports and video games
 - 🌱 I’m currently working on projects and looking for a full time job
-- ✨ Experienced in Java, C#, JavaScript and MySQL
+- ✨ Experienced in Java, C#, JavaScript, HTML, CSS, Web Development, ReactJS, JSON, JQuery and MySQL
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me : Rwil245@lsu.edu or 318-737-6111
 
